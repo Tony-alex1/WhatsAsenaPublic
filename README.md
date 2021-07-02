@@ -20,11 +20,11 @@
 
 **▪︎ You Have the All Rights To Re-Edit This Ropo**
 
-**▪︎ Made By [TOXIC DEVIL](https://github.com/TOXIC-DEVIL)**
+**▪︎ Re-Codded By [TOXIC DEVIL](https://github.com/TOXIC-DEVIL)**
 
 **▪︎ Added More Commands**
 
-**▪︎ Helper [Phaticusthiccy](https://github.com/Phaticusthiccy)**
+**▪︎ Helper & Developer [Phaticusthiccy](https://github.com/Phaticusthiccy)**
 
 ### How To Set Up WhatsAsenaPublic
 
