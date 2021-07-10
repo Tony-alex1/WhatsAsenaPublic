@@ -1,26 +1,26 @@
 ### Jump To
 
-**■ To Know What is WhatsAsenaPublic, Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#What-Is-WhatsAsenaPublic)**
+**■ To Know What is WhatsAsenaPublic, Just [Click Here](https://github.com/Tony-alex1/WhatsAsenaPublic#What-Is-WhatsAsenaPublic)**
 
-**■ To Know Features of WhatsAsenaPublic, Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#Features)**
+**■ To Know Features of WhatsAsenaPublic, Just [Click Here](https://github.com/Tony-alex1/WhatsAsenaPublic#Features)**
 
-**■ To Know WhatsNew Updated last in WhatsAsenaPublic, Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#WhatsNew)**
+**■ To Know WhatsNew Updated last in WhatsAsenaPublic, Just [Click Here](https://github.com/Tony-alex1/WhatsAsenaPublic#WhatsNew)**
 
-**■ To Set Up WhatsAsenaPublic, Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#How-To-Set-Up-WhatsAsenaPublic)**
+**■ To Set Up WhatsAsenaPublic, Just [Click Here](https://github.com/Tony-alex1/WhatsAsenaPublic#How-To-Set-Up-WhatsAsenaPublic)**
 
 ### Special Thanks To:
 
 **[@Phaticusthiccy](https://github.com/Phaticusthiccy)**
 
-**[@TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)**
+**[@Tony-alex1](https://github.com/Tony-alex1)**
 
 ### What Is WhatsAsenaPublic
 
-**▪︎ The [Public Version](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic) Of [WhatsAsenaDuplicated](https://github.com/Phaticusthiccy/WhatsAsenaDuplicated) [ First Release which Deployed On Heroku ] 🐺**
+**▪︎ The [Public Version](https://github.com/Tony-alex1/WhatsAsenaPublic) Of [WhatsAsenaDuplicated](https://github.com/Phaticusthiccy/WhatsAsenaDuplicated) [ First Release which Deployed On Heroku ] 🐺**
 
 **▪︎ You Have the All Rights To Re-Edit This Ropo**
 
-**▪︎ Re-Codded By [TOXIC DEVIL](https://github.com/TOXIC-DEVIL)**
+**▪︎ Re-Codded By [Tony-alex1](https://github.com/Tony-alex1)**
 
 **▪︎ Added More Commands**
 
@@ -28,7 +28,7 @@
 
 ### How To Set Up WhatsAsenaPublic
 
-**¤ To Set Up WhatsAsenaPublic Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#Simple-Method)**
+**¤ To Set Up WhatsAsenaPublic Just [Click Here](https://github.com/Tony-alex1/WhatsAsenaPublic#Simple-Method)**
 
 ```
 Asena; Asena UserBot are names representing WhatsAsena software, they can be used interchangeably in the rest of the article.
@@ -64,11 +64,11 @@ the user is responsible.
 ```
 
 <div align = "center">
-  <img src = "https://i.ibb.co/9H56Ct5/20210305-083215.jpg" width = "200" height = "200">
+  <img src = "https://i.ibb.co/.jpg" width = "200" height = "200">
   <h1> 🐺 WhatsAsenaPublic </h1>
 </div>
 <p align = "center">
-    WhatsAsenaPublic - Made By Toxic Devil.
+    WhatsAsenaPublic - Made By Tony alex.
     <br>
 
 ### Show Your Support
@@ -79,14 +79,14 @@ the user is responsible.
 
 ### Simple Method
 
-[![Run on Repl.it](https://repl.it/badge/github/TOXIC-DEVIL/WhatsAsenaPublic)](https://replit.com/@TOXICDEVIL/WhatsAsena-QR)
+[![Run on Repl.it](https://repl.it/badge/github/Tony-alex1/WhatsAsenaPublic)](https://replit.com/@Tony-alex1/WhatsAsena-QR)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIC-DEVIL/WhatsAsenaPublic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tony-alex1/WhatsAsenaPublic)
 
 ### The Hard Method
 ``` js
-$ git clone https://github.com/TOXIC-DEVIL/WhatsAsenaPublic.git
+$ git clone https://github.com/Tony-alex1/WhatsAsenaPublic.git
 $ cd WhatsAsenaPublic
 $ npm i @adiwajshing/baileys
 $ npm i chalk
@@ -97,9 +97,9 @@ $ node qr.js
 
 ## Developer
 
-| [![TOXIC DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) |
+| [![Tony-alex1](https://github.com/Tony-alex1.png?size=100)](https://github.com/Tony-alex1) |
 |----|
-| [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL) |
+| [Tony-alex1](https://github.com/Tony-alex1) |
 | Re-Developer, Base, Bug Fixes, Modules |
 
 
